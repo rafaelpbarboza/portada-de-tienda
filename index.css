@@ -23,7 +23,7 @@ nav{
 	justify-content: space-between;
 }
 
-/*categorias----------------------------------------------*/
+/*categorias--*/
 
 .contenedor .contenedor-botones-menu .btn-menu-cerrar{
 	font-size: 16px;
@@ -60,7 +60,7 @@ nav{
 
 
 
-/*nombres----------------------------------------------*/
+/*nombres---------*/
 
 .contenedor-enlaces-nav .contenedor-name{
 	padding: 13px;
@@ -76,7 +76,7 @@ nav{
 }
 
 
-/*carrito y cuenta----------------------------------------------*/
+/*carrito y cuenta---*/
 
 .contenedor-enlaces-nav .enlaces{
 	padding: 15px;
@@ -95,7 +95,7 @@ nav{
 	
 }
 
-/*grid del nav categorias----------------------------------------------*/
+/*grid del nav categorias----*/
 
 .regresar{
 	display: none;
@@ -164,7 +164,7 @@ nav{
 	display: inline-block;
 }
 
-/*categorias tecnologia y mas-----------------------------------------------*/
+/*categorias tecnologia y mas-----*/
 
 .categorias-principal{
 	grid-area: subcategorias;
